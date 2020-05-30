@@ -1,1 +1,1 @@
-# 2-boxes
+# Box Class
